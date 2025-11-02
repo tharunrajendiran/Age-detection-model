@@ -1,7 +1,7 @@
 Age‑Detection Model
 A deep‑learning system for estimating a person’s age (and optionally gender) from facial images / video frames—built using pre‑trained convolutional neural networks, object detection (YOLO), and a voice‑based recognition component.
 
-🚀 Table of Contents
+ Table of Contents
 About
 Features
 Tech Stack
